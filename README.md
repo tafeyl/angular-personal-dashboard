@@ -1,6 +1,9 @@
 # Personal Dashboard - Angular
 
-![Preview of Application]()
+![Preview of Bookmarks](/src/assets/bookmarks.jpg)
+![Preview of Todos](/src/assets/todos.jpg)
+![Preview of Notes](/src/assets/notes.jpg)
+
 
 ## Functionality
 
