@@ -1,0 +1,19 @@
+.todos-wrapper {
+    overflow-y: auto;
+    height: 100%;
+    display: flex;
+}
+
+.add-btn i {
+    margin-right: 5px;
+    margin-left: -3px;
+}
+
+app-todo-item {
+    // display: block;
+    margin-bottom: 15px;
+    // justify-content: center;
+    max-width: 100%;
+    // width: 100%;
+    // flex-grow: 1;
+}
